@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamespaceLibrary", "NamespaceLibrary\NamespaceLibrary.csproj", "{788BFBEA-9A0E-42C6-ABF6-681645694206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamespaceExecutableApp", "NamespaceExecutableApp\NamespaceExecutableApp.csproj", "{8027B374-1FC7-49E9-978F-484C51B860D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788BFBEA-9A0E-42C6-ABF6-681645694206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788BFBEA-9A0E-42C6-ABF6-681645694206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788BFBEA-9A0E-42C6-ABF6-681645694206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788BFBEA-9A0E-42C6-ABF6-681645694206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8027B374-1FC7-49E9-978F-484C51B860D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8027B374-1FC7-49E9-978F-484C51B860D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8027B374-1FC7-49E9-978F-484C51B860D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8027B374-1FC7-49E9-978F-484C51B860D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27DB4D46-7A05-4451-A04C-AD097AAAA9F4}
+	EndGlobalSection
+EndGlobal
